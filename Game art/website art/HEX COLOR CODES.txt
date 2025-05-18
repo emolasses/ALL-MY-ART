@@ -1,0 +1,5 @@
+All hex color codes
+
+PINK (zena hair): #e600c6
+ORANGE (kyan hair): #fe6b00
+GREEN (outline): #054415
